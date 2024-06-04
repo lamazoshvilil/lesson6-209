@@ -1,0 +1,63 @@
+.header {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.header-div {
+     display: flex;
+     background-color: aqua;
+     width: 1220px;
+     justify-content: space-between;
+     margin-top: 53px;
+}
+.icon {
+     display: flex;
+     align-items: center;
+}
+.title-icon {
+     font-size: 25px;
+     line-height: 27px;
+     color: black;
+     font-family: "Poppins", sans-serif;
+     font-weight: 700;
+     font-style: normal;
+}
+.header-div-li {
+     width: 825px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.nav-ul {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.nav-li {
+     font-size: 18px;
+     color: #37393F;
+     font-family: "Inter", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+     font-variation-settings:
+     "slnt" 0;
+     line-height: 21.78px;
+}
+.div-li {
+     font-size: 18px;
+     color: #FFFFFF;
+     font-family: "Cabin", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 600;
+     font-style: normal;
+     font-variation-settings:
+     "wdth" 100;
+     line-height: 21.78px;
+     width: 184px;
+     height: 65px;
+     background-color: #6B77E5;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
